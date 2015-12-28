@@ -1,0 +1,8 @@
+{
+  "AppSettings": {
+    "SiteEmailAddress": "nolan@nolan.com"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=REBORN\\SQLEXPRESS;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }	
+}
